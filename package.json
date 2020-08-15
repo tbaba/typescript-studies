@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tbaba/typescript-studies/issues"
   },
-  "homepage": "https://github.com/tbaba/typescript-studies#readme"
+  "homepage": "https://github.com/tbaba/typescript-studies#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
